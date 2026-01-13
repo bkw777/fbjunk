@@ -532,7 +532,7 @@
 		(uuid "4ef0758a-33df-4364-9cd6-364c1033d563")
 	)
 	(embedded_fonts no)
-	(model "${KIPRJMOD}/000_LOCAL/3d/XIAO ESP32S3 PLUS_.step"
+	(model "${KIPRJMOD}/000_LOCAL.pretty/3d/XIAO ESP32S3 PLUS_.step"
 		(offset
 			(xyz -1.7272 -6.096 0)
 		)
